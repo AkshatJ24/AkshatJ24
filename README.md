@@ -36,7 +36,7 @@ I'm a highly motivated third-year B.Tech student and Machine Learning enthusiast
 
 ## 🔥 Featured Projects
 
-### [Predicting the Sale Price of Bulldozers using Machine Learning](https://github.com/AkshatJ24/[YourProjectLink](https://github.com/AkshatJ24/Bulldozer-Price-Prediction))
+### [Predicting the Sale Price of Bulldozers using Machine Learning](https://github.com/AkshatJ24/Bulldozer-Price-Prediction)
 > Engineered and trained a Random Forest Regressor model to predict bulldozer sale prices, achieving a low Root Mean Squared Log Error (RMSLE) of 0.2473.
 - Utilized RandomizedSearchCV for hyperparameter tuning and conducted feature importance analysis to identify key price drivers.
 - Validated the model's practical utility by making accurate predictions on custom, real-world data from July 2024.
