@@ -1,13 +1,19 @@
 # 👋 Hi, I'm Akshat Jha
 ### Data Science & AI Enthusiast | Machine Learning Developer
 
-[![Email](https://img.shields.io/badge/Email-akshatn1008@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshatn1008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat_Jha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jha-8742bb37b/)
-[![GitHub](https://img.shields.io/badge/GitHub-AkshatJ24-181717?style=flat&logo=github&logoColor=white)](https://github.com/AkshatJ24)
+<a href="mailto:akshatn1008@gmail.com" target="_blank" style="text-decoration: none;">
+  <img src="https://api.iconify.design/mdi/email.svg?color=%23D14836" alt="Email" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://www.linkedin.com/in/akshat-jha-8742bb37b/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://leetcode.com/u/10g75cLnJG/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+</a>
 
 ## 🚀 About Me
-
-I'm a highly motivated third-year B.Tech student and Machine Learning enthusiast with hands-on experience in real-life projects. I am proficient in deep learning, data science, and building interactive model deployments. I'm passionate about contributing to innovative AI projects.
 
 - 🔭 **Currently working on:** Food Vision app
 - 🌱 **Learning:** Flask, Transfer Learning
@@ -17,26 +23,55 @@ I'm a highly motivated third-year B.Tech student and Machine Learning enthusiast
 
 ## 🛠️ Technical Skills
 
-**Programming & Data Analysis**
+### Programming & Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://docs.oracle.com/en/java/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://pandas.pydata.org/docs/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://numpy.org/doc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://scikit-learn.org/stable/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+</a>
 
-**Deep Learning**
+### Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge)
+<a href="https://www.tensorflow.org/api_docs" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://keras.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://docs.opencv.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+</a>
 
-**Tools & Platforms**
+### Tools & Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<a href="https://docs.aws.amazon.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+&nbsp; 
+<a href="https://docs.streamlit.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+</a>
 
 ## 🔥 Featured Projects
 
@@ -45,24 +80,3 @@ I'm a highly motivated third-year B.Tech student and Machine Learning enthusiast
 - Utilized RandomizedSearchCV for hyperparameter tuning and conducted feature importance analysis to identify key price drivers.
 - Validated the model's practical utility by making accurate predictions on custom, real-world data from July 2024.
 - Technologies: Python, Scikit-Learn, Pandas, NumPy
-
-## 📚 Education
-
-**VIT Bhopal University, Sehore**
-🎓 B.Tech in Computer Science (AI & ML)
-📅 Expected 2027
-
-**Aavishkar School, Ahmedabad**
-🏆 12th Grade: 87.4% | 10th Grade: 92.8%
-
-## 📊 GitHub Stats
-
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshatJ24&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatJ24&layout=compact&theme=radical)
-
-## 📫 Let's Connect!
-I'm always open to discussing AI, data science, or potential collaborations. Feel free to reach out!
-
-[![Email](https://img.shields.io/badge/Email-akshatn1008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatn1008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat_Jha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jha-8742bb37b/)
